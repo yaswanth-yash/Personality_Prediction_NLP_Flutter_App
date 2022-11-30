@@ -1,6 +1,6 @@
 # prediction
 
-A new Flutter project.
+Screenshots of Flutter Personality Prediction Application. 
 
 ## Getting Started
 
