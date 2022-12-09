@@ -103,16 +103,7 @@ class _Page1State extends State<Page1> {
                         style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
                         textAlign: TextAlign.center,
                       ),
-                      Text(
-                        "Shantanu Yadav",
-                        style: TextStyle(fontWeight: FontWeight.bold, fontSize: 21),
-                        textAlign: TextAlign.center,
-                      ),
-                      Text(
-                        "&",
-                        style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
-                        textAlign: TextAlign.center,
-                      ),
+
                       Text(
                         "Yaswanth Varma",
                         style: TextStyle(fontWeight: FontWeight.bold, fontSize: 21),
